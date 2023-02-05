@@ -20,62 +20,7 @@ i used html  and its basic tags and elements to complete my work. i also used cs
 
 i learned the basics of html tags, how to use them, how to adjust weight, heighth, width, of the elements. how we can add attribute and also the basic concept how html work should look. adding background, coloring it, changing texts, fonts, sizes, etc. 
 
-```html
-<!DOCTYPE hmtl>
-<html lang="en">
-  <head>
-    <meta charset="utf-8"
-    <title>The QR code</title>
-  </head>
 
-  <body>
-    <div>
-      <img src="./qr-code.png" />
-      <h1>Improve your front-end skills by building projects</h1>
-      <p>
-        Scan the QR code to visit frontend mentor and take your coding skills to
-        the next level
-      </p>
-
-      <style>
-          body {
-        background-color:#D5E1EF
-        width: 320px;
-        left: 560px;
-        top: 152px;
-        position:absolute
-        }
-
-        div {
-        	width:320px;
-        	 background-color:white;
-        	 margin:auto;
-        	 padding:16px;
-        	 border-radius:20px
-        }
-        img {
-        	max-width:100%;
-        	border-radius:10px;
-        	font-family:Outfit
-        }
-        h1 {
-        	font-family:Outfit;
-        	font-size:22px;
-        	text-align:center;
-        	font-weight:700;
-        	color:hsl(218, 44%, 22%
-        }
-        p {
-        	font-family:Outfit;
-        	font-size:15px;
-        	text-align:center;
-        	font-weight:400;
-        	color:#7D889E
-        }
-      </style>
-    </div>
-  </body>
-</html>
 
 ### Continued development
 
