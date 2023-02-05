@@ -4,7 +4,7 @@ This is HTML code for a web displaying the QR code image and associated text.The
 
 ### Screenshot
 
-![chrome-extension://mcbpblocgmgfnpjjppndjkmgjaogfceg/fsCaptured.html](./screenshot.jpg)
+![https://paste.pics/LEQES](./screenshot.jpg)
 
 
 ## My process
