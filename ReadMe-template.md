@@ -58,4 +58,4 @@ even though it was my first assignment, im looking forward to learn fullstack, c
 
 ## Acknowledgments
 
-appreciation  goes to Oto Zakalashvili, who helps begginer programmers to understand the first steps of the field.
+appreciation  goes to Oto Zakalashvili, who help begginer programmers to understand the first steps of the field.
